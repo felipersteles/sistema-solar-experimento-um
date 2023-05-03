@@ -488,55 +488,55 @@ body {
 #mercury .pos,
 #mercury .planet,
 #mercury.orbit {
-  animation-duration: 7603200s;
+  animation-duration: 760s;
 }
 
 #venus .pos,
 #venus .planet,
 #venus.orbit {
-  animation-duration: 7100460000s;
+  animation-duration: 710s;
 }
 
 #earth .pos,
 #earth .planet,
 #earth.orbit {
-  animation-duration: 31506000s;
+  animation-duration: 315s;
 }
 
 #earth .orbit .pos,
 #earth .orbit {
-  animation-duration: 0.89764s;
+  animation-duration: 8s;
 }
 
 #mars .pos,
 #mars .planet,
 #mars.orbit {
-  animation-duration: 59959440s;
+  animation-duration: 40s;
 }
 
 #jupiter .pos,
 #jupiter .planet,
 #jupiter.orbit {
-  animation-duration: 375535440s;
+  animation-duration: 40s;
 }
 
 #saturn .pos,
 #saturn .planet,
 #saturn.orbit,
 #saturn .ring {
-  animation-duration: 930949200s;
+  animation-duration: 9200s;
 }
 
 #uranus .pos,
 #uranus .planet,
 #uranus.orbit {
-  animation-duration: 2650838400s;
+  animation-duration: 400s;
 }
 
 #neptune .pos,
 #neptune .planet,
 #neptune.orbit {
-  animation-duration: 5207004000s;
+  animation-duration: 100s;
 }
 
 /* --------------------------------------------------------------------------- planets sizes */
